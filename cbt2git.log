@@ -1,0 +1,16 @@
+2023-08-06 08:03:53.883590 - Initialized conversion of CBT857
+2023-08-06 08:03:54.009563 - Received CBT.V505.FILE857.PDS from FILE857.XMI 
+2023-08-06 08:03:54.012019 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE857.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:03:54.013094 - Found $$NOTE01.txt (text/plain) in CBT.V505.FILE857.PDS, moved to PDS/$$NOTE01
+2023-08-06 08:03:54.014064 - Found $$README.txt (text/plain) in CBT.V505.FILE857.PDS, moved to PDS/$$README
+2023-08-06 08:03:54.016105 - De-xmi-ed $DOCEREP to CBT857/docs/$DOCEREP.doc
+2023-08-06 08:03:54.017034 - Found @FILE857.txt (text/plain) in CBT.V505.FILE857.PDS, moved to PDS/@FILE857
+2023-08-06 08:03:54.017999 - Found EREP.rexx (text/plain) in CBT.V505.FILE857.PDS, moved to PDS/EREP
+2023-08-06 08:03:54.018881 - Found EREPHLQ.txt (text/plain) in CBT.V505.FILE857.PDS, moved to PDS/EREPHLQ
+2023-08-06 08:03:54.019737 - Found EREPP@00.txt (text/plain) in CBT.V505.FILE857.PDS, moved to PDS/EREPP@00
+2023-08-06 08:03:54.020606 - Found EREPP@01.txt (text/plain) in CBT.V505.FILE857.PDS, moved to PDS/EREPP@01
+2023-08-06 08:03:54.021600 - Found EREPP@02.txt (text/plain) in CBT.V505.FILE857.PDS, moved to PDS/EREPP@02
+2023-08-06 08:03:54.022504 - Found EREPP@03.txt (text/plain) in CBT.V505.FILE857.PDS, moved to PDS/EREPP@03
+2023-08-06 08:03:54.023480 - Found EREPP@04.txt (text/plain) in CBT.V505.FILE857.PDS, moved to PDS/EREPP@04
+2023-08-06 08:03:54.024498 - Found EREPP@05.txt (text/plain) in CBT.V505.FILE857.PDS, moved to PDS/EREPP@05
+2023-08-06 08:03:54.025433 - Found LIBDEF.rexx (text/plain) in CBT.V505.FILE857.PDS, moved to PDS/LIBDEF
