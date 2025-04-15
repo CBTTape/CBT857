@@ -1,15 +1,15 @@
-2025-04-15 06:13:06.029470 - Received CBT.V508.FILE857.PDS from FILE857.XMI 
-2025-04-15 06:13:06.030961 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/$$$#DATE
-2025-04-15 06:13:06.031275 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/$$NOTE01
-2025-04-15 06:13:06.031447 - Found $$README.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/$$README
-2025-04-15 06:13:06.032748 - Found $DOCEREP.doc (application/msword) in CBT.V508.FILE857.PDS, moved to docs/$DOCEREP.doc
-2025-04-15 06:13:06.032933 - Found @FILE857.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/@FILE857
-2025-04-15 06:13:06.033482 - Found EREP.rexx (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/EREP
-2025-04-15 06:13:06.033653 - Found EREPHLQ.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/EREPHLQ
-2025-04-15 06:13:06.033812 - Found EREPP@00.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/EREPP@00
-2025-04-15 06:13:06.033972 - Found EREPP@01.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/EREPP@01
-2025-04-15 06:13:06.034146 - Found EREPP@02.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/EREPP@02
-2025-04-15 06:13:06.034305 - Found EREPP@03.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/EREPP@03
-2025-04-15 06:13:06.034464 - Found EREPP@04.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/EREPP@04
-2025-04-15 06:13:06.034626 - Found EREPP@05.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/EREPP@05
-2025-04-15 06:13:06.034788 - Found LIBDEF.rexx (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/LIBDEF
+2025-04-16 00:53:25.290470 - Received CBT.V508.FILE857.PDS from FILE857.XMI 
+2025-04-16 00:53:25.291934 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/$$$#DATE
+2025-04-16 00:53:25.292245 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/$$NOTE01
+2025-04-16 00:53:25.292428 - Found $$README.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/$$README
+2025-04-16 00:53:25.293770 - Found $DOCEREP.doc (application/msword) in CBT.V508.FILE857.PDS, moved to docs/$DOCEREP.doc
+2025-04-16 00:53:25.293843 - Found @FILE857.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/@FILE857
+2025-04-16 00:53:25.294399 - Found EREP.rexx (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/EREP
+2025-04-16 00:53:25.294577 - Found EREPHLQ.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/EREPHLQ
+2025-04-16 00:53:25.294879 - Found EREPP@00.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/EREPP@00
+2025-04-16 00:53:25.295065 - Found EREPP@01.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/EREPP@01
+2025-04-16 00:53:25.295243 - Found EREPP@02.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/EREPP@02
+2025-04-16 00:53:25.295416 - Found EREPP@03.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/EREPP@03
+2025-04-16 00:53:25.295616 - Found EREPP@04.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/EREPP@04
+2025-04-16 00:53:25.295789 - Found EREPP@05.txt (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/EREPP@05
+2025-04-16 00:53:25.295965 - Found LIBDEF.rexx (text/plain) in CBT.V508.FILE857.PDS, moved to PDS/LIBDEF
